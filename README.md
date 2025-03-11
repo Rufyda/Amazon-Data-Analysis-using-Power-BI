@@ -68,5 +68,5 @@ This project is licensed under the **MIT License**.
 For any questions or collaboration, reach out via:
 
 - GitHub Issues
-- Email: `your-email@example.com`
+- Email: `RufydaRahma@gmail.com`
 - LinkedIn: [Rufyda Rahma](https://www.linkedin.com/in/rufyda-rahma-96b656179/)
